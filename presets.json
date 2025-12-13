@@ -4,5 +4,11 @@
         "state": "teszt",
         "large_image": "",
         "small_image": ""
+    },
+    "Eles": {
+        "details": "teszr",
+        "state": "teszt",
+        "large_image": "https://i.postimg.cc/28ZTSYzY/Chat-GPT-Image-2025-nov-29-12-56-14.png",
+        "small_image": "https://i.postimg.cc/28ZTSYzY/Chat-GPT-Image-2025-nov-29-12-56-14.png"
     }
 }
