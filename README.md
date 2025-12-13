@@ -23,7 +23,7 @@ A **DigiRP** egy Pythonban írt, grafikus felületű (GUI) alkalmazás, amellyel
 1. Klónozd a repót vagy töltsd le ZIP-ben:
 
 ```bash
-git clone https://github.com/DigiFan/DigiRP.git
+git clone https://github.com/faragomate555/DigiRP.git
 ```
 
 2. Lépj be a mappába:
